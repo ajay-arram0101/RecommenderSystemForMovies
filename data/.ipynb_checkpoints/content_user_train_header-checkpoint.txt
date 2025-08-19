@@ -1,0 +1,1 @@
+user id,rating count,rating ave,Adventure,Animation,Children,Comedy,Fantasy,Romance,Action,Crime,Thriller,Mystery,Horror,Drama,War,Sci-Fi,Musical,Documentary
