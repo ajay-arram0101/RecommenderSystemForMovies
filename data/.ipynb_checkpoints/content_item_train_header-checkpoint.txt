@@ -1,1 +1,0 @@
-movieId,Year,Avg_rating,Adventure,Animation,Children,Comedy,Fantasy,Romance,Action,Crime,Thriller,Mystery,Horror,Drama,War,Sci-Fi,Musical,Documentary
